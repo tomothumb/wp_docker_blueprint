@@ -11,6 +11,9 @@ $ docker-compose run --rm cli bash
 $ docker-compose down
 ```
 
+http://localhost/
+
+
 ## LOGIN
 
 ### Database
