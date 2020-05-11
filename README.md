@@ -3,10 +3,13 @@
 Blueprint of Wordpress docker compose.
 
 ## SETUP
+```
 $ docker-compose -f "docker-compose.yml" up -d --build
 $ docker-compose run --rm cli bash
 % chmod +x /tmp/wp-install.sh
 % /tmp/wp-install.sh
+$ docker-compose down
+```
 
 ## LOGIN
 
